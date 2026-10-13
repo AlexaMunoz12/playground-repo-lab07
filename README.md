@@ -16,7 +16,7 @@ Feel free to explore the strucure of the repo before diving into the exercise be
 
 ## Your task
 
-Follow the checklist in [`CONTRIBUTING.md`](CONTRIBUTIONS.md) to fix a few
+Follow the checklist in [`CONTRIBUTING.md`](CONTRIBUTING.md) to fix a few
 small issues in this README and push your changes to your fork.
 
 ## Data
